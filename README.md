@@ -50,10 +50,6 @@ Follow these instructions to set up the project on your local machine.
 The project should now be accessible at http://127.0.0.1:8000/.
 
 
-### Admin Interface
-
-Access the Django admin interface at http://127.0.0.1:8000/admin/ using the superuser credentials created earlier.
-
 
 
 ## License
