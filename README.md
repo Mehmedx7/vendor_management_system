@@ -29,25 +29,19 @@ Follow these instructions to set up the project on your local machine.
     pipenv install -r requirements.txt
     ```
 
-3. Activate the virtual environment:
-
-    ```bash
-    pipenv shell
-    ```
-
-4. Apply migrations to create the database:
+3. Apply migrations to create the database:
 
     ```bash
     python manage.py migrate
     ```
 
-5. Create a superuser (for admin access):
+4. Create a superuser (for admin access):
 
     ```bash
     python manage.py createsuperuser
     ```
 
-6. Run the development server:
+5. Run the development server:
 
     ```bash
     python manage.py runserver
