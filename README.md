@@ -13,7 +13,6 @@ Follow these instructions to set up the project on your local machine.
 ### Prerequisites
 
 - Python (3.7 or higher)
-- Pipenv (for managing virtual environments)
 
 ### Installation
 
