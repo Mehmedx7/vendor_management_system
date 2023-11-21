@@ -26,7 +26,7 @@ Follow these instructions to set up the project on your local machine.
 2. Install requirements using Pipenv:
 
     ```bash
-    pipenv install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 3. Apply migrations to create the database:
