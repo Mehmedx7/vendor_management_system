@@ -1,4 +1,4 @@
-# vendor_management_system
+# Vendor Management System
 
 Vendor Management System is a Django project designed to manage vendors, purchase orders, and performance metrics.
 
@@ -20,10 +20,10 @@ Follow these instructions to set up the project on your local machine.
     cd vendor_management_system
     ```
 
-2. Install dependencies using Pipenv:
+2. Install requirements using Pipenv:
 
     ```bash
-    pipenv install
+    pipenv install -r requirements.txt
     ```
 
 3. Activate the virtual environment:
