@@ -4,6 +4,10 @@ Vendor Management System is a Django project designed to manage vendors, purchas
 
 ## Getting Started
 
+## API Documentation
+Explore the API endpoints and usage in the [Postman API Documentation](https://documenter.getpostman.com/view/29819419/2s9YeAAZyp).
+
+
 Follow these instructions to set up the project on your local machine.
 
 ### Prerequisites
